@@ -15,5 +15,6 @@ public class Main {
             a /= 10;
         }while (a != 0);
         System.out.println(min);
+        //шорлоророрлрл
     }
 }
